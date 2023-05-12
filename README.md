@@ -24,8 +24,8 @@ The user should also install [Insomnia](https://insomnia.rest/download) or [Post
 ![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/62fb211d-9217-4185-a4b1-0db8b0bc92ac)
 
 ## Questions
-If you have any questions, you can find my github profile here or you can send me an email<br/>
-https://github.com/TJGit11
+If you have any questions, you can find my github profile here https://github.com/TJGit11 <br/>
+or you can send me an email<br/>
 thomasjjohnson9311@gmail.com
 
 
