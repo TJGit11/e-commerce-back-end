@@ -12,7 +12,7 @@ e-commerce-back-end-boogaloo
 
 ## Project Description
 This project demonstrates object relational mapping through the backend of an e-commerce site
-[Walkthrough Video](https://github.com/TJGit11/e-commerce-back-end-boogaloo/tree/main)
+### [Walkthrough Video](https://drive.google.com/file/d/1GwEMrYUKA1HBGr82hbR8iYjv_WlG4deZ/view)
 
 ## Installation
 The user will want to install the necessary package modules: ```npm i```__
