@@ -25,7 +25,7 @@ The user should also install [Insomnia](https://insomnia.rest/download) or [Post
 
 ## Questions
 If you have any questions, you can find my github profile here: https://github.com/TJGit11 <br/>
-or you can send me an email thomasjjohnson9311@gmail.com
+or you can send me an email: thomasjjohnson9311@gmail.com
 
 
 
