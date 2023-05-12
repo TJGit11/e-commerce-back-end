@@ -14,16 +14,8 @@ e-commerce-back-end-boogaloo
 This project demonstrates object relational mapping through the backend of an e-commerce site
 
 ## Installation
-
-
-## Usage
-
-
-## License
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
-
-## Contributing
-
+The user will want to install the necessary packege modules: ```npm i```
+The user should also install [Insomnia](https://insomnia.rest/download) or [Postman](https://www.postman.com/downloads/) to test API routes
 
 ## Tests
 ![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/f1416e06-2f03-4379-b9fc-8eccce74007a)
