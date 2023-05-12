@@ -4,9 +4,6 @@ e-commerce-back-end-boogaloo
 ## Table of Contents
 - [Project Description](#project-description)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -15,7 +12,7 @@ This project demonstrates object relational mapping through the backend of an e-
 ### [Walkthrough Video](https://drive.google.com/file/d/1GwEMrYUKA1HBGr82hbR8iYjv_WlG4deZ/view)
 
 ## Installation
-The user will want to install the necessary package modules: ```npm i```__
+The user will want to install the necessary package modules: ```npm i```<br/>
 The user should also install [Insomnia](https://insomnia.rest/download) or [Postman](https://www.postman.com/downloads/) to test API routes
 
 
@@ -27,7 +24,7 @@ The user should also install [Insomnia](https://insomnia.rest/download) or [Post
 ![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/62fb211d-9217-4185-a4b1-0db8b0bc92ac)
 
 ## Questions
-If you have any questions, you can find my github profile here or you can send me an email__
+If you have any questions, you can find my github profile here or you can send me an email<br/>
 https://github.com/TJGit11
 thomasjjohnson9311@gmail.com
 
