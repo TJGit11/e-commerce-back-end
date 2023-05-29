@@ -17,11 +17,10 @@ The user should also install [Insomnia](https://insomnia.rest/download) or [Post
 
 
 ## Tests
-![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/e71dd3af-b45f-4056-a1db-147346c41af9)
-![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/01829f93-2881-45cc-a682-692e6d657d87)
-![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/6f6ac404-1af5-4e01-8ee9-82e43337f519)
-![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/78190f17-bb29-450b-a4c7-ddf0d7a6ff8e)
-![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/62fb211d-9217-4185-a4b1-0db8b0bc92ac)
+![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/ac769649-2806-46e7-aa0a-24abc5f560ab)
+![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/50bfb4c1-7f5c-41c3-be5d-9f069990dc74)
+![image](https://github.com/TJGit11/e-commerce-back-end-boogaloo/assets/74613952/affa91e7-49a0-485e-b315-3fbb65f4541c)
+
 
 ## Questions
 If you have any questions, you can find my github profile here: https://github.com/TJGit11 <br/>
